@@ -1,0 +1,8 @@
+#ignoring specific file
+.env
+#ignoring specific directories
+/Oct9
+#ignoring file extension type
+*.xcodeproj
+#adding an exception
+!main.cpp
