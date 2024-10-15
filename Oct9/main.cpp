@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// update
+// update version 2
 // using pointers to reverse the variables in the array
 
 int main() {
